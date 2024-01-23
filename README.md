@@ -1,2 +1,13 @@
-# lochlaneaton-project-portfolio
-This repo showcases programming projects that I have worked on. 
+# Portfolio Title
+
+## Section 1
+
+### Subsection
+
+### Subsection
+
+## Section 2
+
+### Subsection
+
+### Subsection
