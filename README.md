@@ -1,13 +1,20 @@
-# Portfolio Title
+# Lochlan Eaton Project Portfolio
 
-## Section 1
+## About Me
+
+### Subsection
+
+### Subsection
+
+## Skills
 
 ### Subsection
 
 ### Subsection
 
-## Section 2
+## Projects 
 
 ### Subsection
 
 ### Subsection
+
