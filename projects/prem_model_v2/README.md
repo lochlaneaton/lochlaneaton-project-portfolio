@@ -10,4 +10,4 @@
 * Pandas 
 
 ### Credits
-Much of this code can be attributed to [dataquestio](https://github.com/dataquestio/project-walkthroughs/tree/master/football_matches).
+Much of this code can be attributed to [VikParuchuri](https://github.com/dataquestio/project-walkthroughs/tree/master/football_matches).
