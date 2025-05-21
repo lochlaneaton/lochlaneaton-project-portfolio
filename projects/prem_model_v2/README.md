@@ -3,5 +3,11 @@
 2. Utilize Python machine learning and data-cleansing libraries such as Scikit-Learn and Pandas to fit a model to our data.
 3. Continue to improve on our model by implementing different ML algorithms, scraping more data, and/or engineer more predictive features.
 
+### Dependencies
+* BeautifulSoup
+* Cloudscraper
+* Scikit-learn
+* Pandas 
+
 ### Credits
-Much of this code can be attributed to [dataquetio](https://github.com/dataquestio/project-walkthroughs/tree/master/football_matches).
+Much of this code can be attributed to [dataquestio](https://github.com/dataquestio/project-walkthroughs/tree/master/football_matches).
