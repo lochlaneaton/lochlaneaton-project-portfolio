@@ -6,6 +6,6 @@ I am a senior at the University of Wisconsin-Madison studying computer science a
 ## Projects 
 
 ### Premier League Match Predictions
-* [Premier Leage Model](projects/pl_model/)
+* [Premier League Model](projects/pl_model/)
 
 
