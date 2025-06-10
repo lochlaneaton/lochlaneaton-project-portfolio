@@ -5,6 +5,6 @@ I am a senior at the University of Wisconsin-Madison studying computer science a
 
 ## Projects 
 * [Premier League Model](projects/pl_model/)
-* [Language Identification with Probability](language_identification)
+* [Language Identification with Probability](projects/language_identification/)
 
 
